@@ -1,0 +1,1 @@
+{"data": [{"name": "ЛоКон", "url": "https://zoon.ru/msk/beauty/salon_krasoty_lokon_na_metro_stahanovskaya/"}, {"name": "Салоны красоты и&nbsp;СПА Москвы", "url": "https://zoon.ru/msk/beauty/metro/"}]}
